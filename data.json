@@ -1,16 +1,15 @@
 {
       "Data": [
             {
-                  "k": 1,
-                  "j": 9,
-                  "l": 8,
-                  "k.1": 6
-            },
-            {
-                  "k": 2,
-                  "j": 3,
-                  "l": 4,
-                  "k.1": 5
+                  "OrgName": "Demo",
+                  "Address": "41-Ananta Astha vadodara",
+                  "ContactDetails": 764956556565,
+                  "Email": "Demo@gmail.com",
+                  "OpeningDate": "04-11-2000",
+                  "CertifiedBy": "UGC",
+                  "OrgKey": "jofy575ghs978ba",
+                  "OrgType": "Private",
+                  "RegisteredBy": "Khushal"
             }
       ]
 }
