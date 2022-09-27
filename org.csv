@@ -1,2 +1,2 @@
-OrgName,Address,ContactDetails,Email,OpeningDate,CertifiedBy,OrgKey,OrgType,RegisteredBy
-Demo,41-Ananta Astha vadodara,764956556565,Demo@gmail.com,04-11-2000,UGC,jofy575ghs978ba,Private,Khushal
+organization_name,email,contact_number,organisation_logo,certified_by,organization_key,org_type,registered_by,address
+Navrachana,navrachana@gmail.com,7201016793,,UGC,7856,Private,Khushal,Vadodara

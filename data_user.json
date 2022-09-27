@@ -1,0 +1,17 @@
+{
+      "Data": [
+            {
+                  "first_name": "Khushal",
+                  "last_name": "Goyal",
+                  "profile_pic": "path/Shree_Shyam_Trans_Logistics_JPEG_RGB_2.jpg",
+                  "email": "k@gmail.com",
+                  "role_type": "Teacher",
+                  "firebase_id": 79465626949,
+                  "organization_name": NaN,
+                  "teacher_class_in_charge": 2,
+                  "class_allocated": NaN,
+                  "address": "Vadodara",
+                  "dob": "11-12-1972"
+            }
+      ]
+}
